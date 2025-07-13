@@ -27,7 +27,7 @@ WeSplit is a simple SwiftUI app that helps users split a bill among friends and 
 
 Here’s how the app looks:
 
-![WeSplit Screenshot](demo.png)
+<img src="demo.png" alt="WeSplit Screenshot" width="300"/>
 
 ---
 
